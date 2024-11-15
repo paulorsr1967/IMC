@@ -1,1 +1,1 @@
-Sistema em Swift para calcular o IMD - Õndice de Massa Corpral
+Sistema em Swift para calcular o IMC - √çndice de Massa Corpral
